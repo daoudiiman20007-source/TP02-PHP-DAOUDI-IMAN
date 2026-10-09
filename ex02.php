@@ -1,11 +1,11 @@
 <?php
-$nom = "Alaoui"; $prenom = "Salma"; $age = 20;
+$nom = "Daoudi"; $prenom = "Iman"; $age = 19;
 $formation = "Informatique Appliquee";
 $phrase = "Je m'appelle " . $prenom . " " . $nom . ", j'ai " . $age
  . " ans et je suis en " . $formation . ". ";
 $phrase .= "J'apprends PHP";
-$note = 12;
-$Note = 16;
+$note = 19;
+$Note = 18;
 ?>
 <!DOCTYPE html>
 <html lang="fr"><head><meta charset="UTF-8"><title>Exercice 2</title></head>

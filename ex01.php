@@ -7,8 +7,8 @@
 # Autre commentaire sur une ligne
 /* Commentaire
  sur plusieurs lignes */
-echo "<p>Nom : Alaoui</p>";
-echo "<p>Prenom : Salma</p>";
+echo "<p>Nom : Daoudi</p>";
+echo "<p>Prenom : Iman</p>";
 echo "<p>Formation : Informatique Appliquee</p>";
 print "<p>Bonjour depuis PHP !</p>";
 ?>
