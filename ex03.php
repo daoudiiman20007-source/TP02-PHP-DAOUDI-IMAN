@@ -1,6 +1,6 @@
 <?php
 define("TAUX_TVA", 20);
-define("DEVISE", "MAD"); TP 02 PHP - page 4
+define("DEVISE", "MAD"); 
 $prixHT = 60;
 $quantite = 3;
 $totalHT = $prixHT * $quantite; // 180
